@@ -18,7 +18,7 @@ public class ex2 {
 
 
 
-        System.out.println("Olá " + nome  + sobrenome + "!");
+        System.out.println("Olá " + nome + " " + sobrenome + "!");
         Scanner.close();
 
     }

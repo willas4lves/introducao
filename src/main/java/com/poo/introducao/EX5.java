@@ -12,7 +12,7 @@ public class EX5 {
         double metrospor2 = Scanner.nextDouble();
         double area = largura * comprimento;
         double Total = area * metrospor2;
-        System.out.printf("A área do terreno é m² " + area +"o valor total é R$" + Total);
+        System.out.printf("A área do terreno é m² " + area + " " +"o valor total é R$" + Total);
 
         Scanner.close();
     }
